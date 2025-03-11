@@ -1,5 +1,1 @@
-streamlit
-pickle
-numpy
 scikit-learn
-pandas
