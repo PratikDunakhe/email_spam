@@ -3,6 +3,3 @@ pickle
 numpy
 scikit-learn
 pandas
-re
-string
-imblearn
